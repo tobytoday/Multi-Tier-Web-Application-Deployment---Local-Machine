@@ -38,14 +38,14 @@ This project demonstrates the setup of a multi-tier web application, integrating
 - Nginx
 - Maven
 
-## Reference 
-https://www.udemy.com/course-dashboard-redirect/?course_id=3710504
 
 ## License
 [MIT License](LICENSE)
 
-## Contributing
-Feel free to open issues or submit pull requests.
+## Acknowledgments
+This project was developed as part of the Udemy course "[DevOps Projects | Real Time DevOps & GitOps Projects]" by [Imran Teli]. The course provided comprehensive guidance on setting up a multi-tier architecture using various technologies.
+
+- **Course**: [DevOps Project](https://www.udemy.com/course-dashboard-redirect/?course_id=3710504) by [Imran Teli]
 
 ## Contact
 For any inquiries, please reach out on [[LinkedIn](https://www.linkedin.com/in/oluwatobi-oni-22582159/)].
