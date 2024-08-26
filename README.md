@@ -14,6 +14,9 @@ This project demonstrates the setup of a multi-tier web application, integrating
 
 ### Prerequisites
 - Local installations of MySQL, Memcached, RabbitMQ, Tomcat, and Nginx (Manual Provisioning)
+- JDK 1.8 or later
+- Maven 3 or later
+- MySQL 5.6 or later
 - Vagrant, Vagrant plugins, VirtualBox, Git Bash
 
 ### Steps
@@ -33,6 +36,7 @@ This project demonstrates the setup of a multi-tier web application, integrating
 - RabbitMQ
 - Apache Tomcat
 - Nginx
+- Maven
 
 ## Reference 
 https://www.udemy.com/course-dashboard-redirect/?course_id=3710504
@@ -44,5 +48,5 @@ https://www.udemy.com/course-dashboard-redirect/?course_id=3710504
 Feel free to open issues or submit pull requests.
 
 ## Contact
-For any inquiries, please reach out to [[Your Email](tobionidevops@gmail.com)] or [[LinkedIn](https://www.linkedin.com/in/oluwatobi-oni-22582159/)].
+For any inquiries, please reach out on [[LinkedIn](https://www.linkedin.com/in/oluwatobi-oni-22582159/)].
 
