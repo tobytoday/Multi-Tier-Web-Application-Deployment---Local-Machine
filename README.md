@@ -1,7 +1,7 @@
 # Multi-Tier-Web-Application-Deployment---Local-Machine
 
 ## Overview
-This project demonstrates the setup of a multi-tier web application, integrating various services to create a robust and scalable system.
+    This project demonstrates the setup of a multi-tier web application, integrating various services to create a robust and scalable system.
 
 ## Architecture
 - **MySQL (Database Service)**: Provides data storage and management.
@@ -43,7 +43,7 @@ This project demonstrates the setup of a multi-tier web application, integrating
 [MIT License](LICENSE)
 
 ## Acknowledgments
-This project was developed as part of the Udemy course "[DevOps Projects | Real Time DevOps & GitOps Projects]" by [Imran Teli]. The course provided comprehensive guidance on setting up a multi-tier architecture using various technologies.
+This project was developed as part of the Udemy course "[DevOps Projects | Real Time DevOps & GitOps Projects]" by [Imran Teli]. 
 
 - **Course**: [DevOps Project](https://www.udemy.com/course-dashboard-redirect/?course_id=3710504) by [Imran Teli]
 
