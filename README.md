@@ -16,7 +16,7 @@
 - Local installations of MySQL, Memcached, RabbitMQ, Tomcat, and Nginx (Manual Provisioning)
 - JDK 1.8 or later
 - Maven 3 or later
-- MySQL 5.6 or later
+- MySQL 5.6 or later 
 - Vagrant, Vagrant plugins, VirtualBox, Git Bash
 
 ### Steps
